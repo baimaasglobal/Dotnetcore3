@@ -6,7 +6,7 @@ namespace console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Khadhar sheik");
+            Console.WriteLine("Khadhar sheik & suriya");
         }
     }
 }
